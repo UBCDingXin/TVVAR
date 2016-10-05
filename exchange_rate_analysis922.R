@@ -13,9 +13,9 @@ library(compiler)
 library(mvtnorm)
 library(pracma)
 
-setwd("D:\\OneDrive\\Time-varying VAR\\code\\simulation\\R code")
+setwd()
 source("VAR_lib_general.R")
-load('D:\\OneDrive\\Time-varying VAR\\code\\Real data\\exchange rate\\exchange_rate_all.RData')
+load('exchange_rate_all.RData')
 
 ###############################################
 # set parameters
