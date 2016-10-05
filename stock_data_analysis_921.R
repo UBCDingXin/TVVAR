@@ -14,9 +14,9 @@ library(mvtnorm)
 # library(tseries)
 library(pracma)
 
-setwd("D:\\OneDrive\\Time-varying VAR\\code\\simulation\\R code")
+setwd()
 source("VAR_lib_general.R")
-load('D:\\OneDrive\\Time-varying VAR\\code\\Real data\\stock data\\stockdata.RData')
+load('stockdata.RData')
 ###############################################
 # set parameters
 ##############################################
