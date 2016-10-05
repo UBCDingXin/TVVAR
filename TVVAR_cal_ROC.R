@@ -14,9 +14,7 @@ library(compiler)
 library(mvtnorm)
 
 
-setwd("D:\\OneDrive\\Time-varying VAR\\code\\simulation\\R code")
-# setwd("C:\\Users\\DX\\OneDrive\\Time-varying VAR\\code\\simulation\\R code")
-# setwd("C:\\Users\\Xin\\OneDrive\\Time-varying VAR\\code\\simulation\\R code")
+setwd()
 source("VAR_lib_general.R")
 
 # -------------------------------------------
